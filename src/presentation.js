@@ -65,10 +65,10 @@ export default class Presentation extends React.Component {
           </Text>
         </Slide>
         <Slide transition={['slide']} bgColor="quartenary">
-          <Heading size={1} fit caps lineHeight={1} textColor="tertiary">
+          <Heading size={1} fit caps lineHeight={1} textColor="secondary">
             Will Laws
           </Heading>
-          <Text margin="10px 0 0" textColor="secondary" size={1} fit bold>
+          <Text margin="10px 0 0" textColor="tertiary" size={1} fit bold>
             Senior Operations Engineer
           </Text>
           <Text margin="10px 0 0" textColor="primary" size={1} fit bold>
